@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Skydope/zeus/releases/download/v5.0.2/zeus-5.0.2.zip",
-            "hash": "C17D8DA4B10D65E94E4FB210E7AF72ACB6B5BA4A5F47E088B0B8DFC65FCB551C"
+            "hash": "08ef7e6055ab0757fad9153e286208c5723e6d289d854e1215362a844b6b0030"
         }
     },
     "bin": [
