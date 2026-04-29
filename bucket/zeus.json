@@ -9,7 +9,6 @@
             "hash": "C17D8DA4B10D65E94E4FB210E7AF72ACB6B5BA4A5F47E088B0B8DFC65FCB551C"
         }
     },
-    "extract_dir": "zeus-5.0.2",
     "bin": [
         ["zeus_launcher.bat", "zeus"]
     ],
